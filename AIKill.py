@@ -108,7 +108,7 @@ class TenseBotGUI(tk.Tk):
             messagebox.showerror("Error", "Sorry, there was an issue with the speech recognition service.")
 
     def quit_program(self):
-        messagebox.showinfo("Thank You", "Made by SuV and Tiger")
+        messagebox.showinfo("Thank You", "Made by Suhani and Tanish")
         self.destroy()
 
 if __name__ == "__main__":
