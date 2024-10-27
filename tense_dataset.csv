@@ -1,0 +1,1662 @@
+sentence,label
+"I walked yesterday.",0
+"She finished last night.",0
+"They watched last weekend.",0
+"We visited last month.",0
+"He cooked yesterday.",0
+"The kids played yesterday.",0
+"She wrote last week.",0
+"They traveled last summer.",0
+"I lost yesterday.",0
+"He painted last year.",0
+"The teacher explained yesterday.",0
+"We had a party last night.",0
+"I met her last Friday.",0
+"She ran yesterday.",0
+"They celebrated last month.",0
+"He fixed last weekend.",0
+"We ate last night.",0
+"She read last week.",0
+"I visited last summer.",0
+"They graduated last year.",0
+"He bought last month.",0
+"We went last Saturday.",0
+"She cleaned last Wednesday.",0
+"They went last night.",0
+"He made last week.",0
+"I watched yesterday.",0
+"She got last month.",0
+"They had lunch last Friday.",0
+"He learned last summer.",0
+"We stayed last winter.",0
+"She enjoyed last year.",0
+"They explored last weekend.",0
+"He wrote last year.",0
+"We had last Saturday.",0
+"She visited last month.",0
+"They saw last night.",0
+"He organized last year.",0
+"We played last Sunday.",0
+"She attended last week.",0
+"They spent last summer.",0
+"He built last fall.",0
+"I watched last week.",0
+"She went last weekend.",0
+"They had last month.",0
+"He repaired last Sunday.",0
+"We celebrated last year.",0
+"She finished tonight.",1
+"They are watching now.",1
+"He is cooking now.",1
+"We are visiting today.",1
+"She is writing now.",1
+"The kids are playing now.",1
+"He is painting now.",1
+"I am looking now.",1
+"We are eating tonight.",1
+"She is reading now.",1
+"They are graduating this year.",1
+"He is buying now.",1
+"We are going tomorrow.",1
+"She is cleaning now.",1
+"They are going tonight.",1
+"He is making now.",1
+"I am watching now.",1
+"She is getting now.",1
+"They are having lunch this Friday.",1
+"He is learning now.",1
+"We are staying now.",1
+"She is enjoying now.",1
+"They are exploring now.",1
+"He is writing now.",1
+"We are having now.",1
+"She is visiting now.",1
+"They are seeing tonight.",1
+"He is organizing now.",1
+"We are playing now.",1
+"She is attending now.",1
+"They are spending now.",1
+"He is building now.",1
+"I am watching now.",1
+"She is going now.",1
+"They are having now.",1
+"He is repairing now.",1
+"We are celebrating now.",1
+"She will walk tomorrow.",2
+"They will watch next weekend.",2
+"He will cook tomorrow.",2
+"We will visit next month.",2
+"She will write next week.",2
+"The kids will play tomorrow.",2
+"He will paint next year.",2
+"I will look tomorrow.",2
+"We will eat next night.",2
+"She will read next week.",2
+"They will graduate next year.",2
+"He will buy next month.",2
+"We will go next Saturday.",2
+"She will clean next Wednesday.",2
+"They will go next night.",2
+"He will make next week.",2
+"I will watch tomorrow.",2
+"She will get next month.",2
+"They will have lunch next Friday.",2
+"He will learn next summer.",2
+"We will stay next winter.",2
+"She will enjoy next year.",2
+"They will explore next weekend.",2
+"He will write next year.",2
+"We will have next Saturday.",2
+"She will visit next month.",2
+"They will see next night.",2
+"He will organize next year.",2
+"We will play next Sunday.",2
+"She will attend next week.",2
+"They will spend next summer.",2
+"He will build next fall.",2
+"I will watch next week.",2
+"She will go next weekend.",2
+"They will have next month.",2
+"He will repair next Sunday.",2
+"I walked to the store yesterday.",0
+"She had finished her homework last night.",0
+"They saw a movie last weekend.",0
+"We visited the museum last month.",0
+"He cooked dinner yesterday evening.",0
+"The kids played in the park yesterday.",0
+"She wrote a letter last week.",0
+"They traveled to Paris last summer.",0
+"I lost my keys yesterday.",0
+"He painted the house last year.",0
+"The teacher explained the lesson yesterday.",0
+"We had a great time at the party last night.",0
+"I met her at the airport last Friday.",0
+"She ran five miles yesterday.",0
+"They celebrated their anniversary last month.",0
+"He fixed the car last weekend.",0
+"We ate at a new restaurant last night.",0
+"She read a fascinating book last week.",0
+"I visited my grandparents last summer.",0
+"They graduated from college last year.",0
+"He bought a new phone last month.",0
+"We went hiking last Saturday.",0
+"She cleaned the house last Wednesday.",0
+"They attended a concert last night.",0
+"He made a cake for her birthday last week.",0
+"I watched a documentary yesterday.",0
+"She got a promotion last month.",0
+"They had lunch together last Friday.",0
+"He learned to swim last summer.",0
+"We stayed at a cozy cabin last winter.",0
+"She had a great time at the conference last year.",0
+"They explored the city last weekend.",0
+"He wrote a novel last year.",0
+"We had a barbecue last Saturday.",0
+"She visited her cousin last month.",0
+"They saw a shooting star last night.",0
+"He organized a charity event last year.",0
+"We played board games last Sunday.",0
+"She attended a workshop last week.",0
+"They spent the day at the beach last summer.",0
+"He built a treehouse last fall.",0
+"I watched a movie with friends last week.",0
+"She attended a wedding last weekend.",0
+"They enjoyed a weekend getaway last month.",0
+"He repaired the bike last Sunday.",0
+"We celebrated New Year's Eve last year.",0
+"She completed her project last night.",0
+"They traveled to Italy last spring.",0
+"He took a cooking class last summer.",0
+"I met a celebrity last week.",0
+"I am walking to the store now.",1
+"She is finishing her homework.",1
+"They are watching a movie.",1
+"We are visiting the museum today.",1
+"He is cooking dinner.",1
+"The kids are playing in the park.",1
+"She is writing a letter.",1
+"They are traveling to Paris.",1
+"I am looking for my keys.",1
+"He is painting the house.",1
+"The teacher is explaining the lesson.",1
+"We are having a great time at the party.",1
+"I am meeting her at the airport.",1
+"She is running five miles.",1
+"They are celebrating their anniversary.",1
+"He is fixing the car.",1
+"We are eating at a new restaurant.",1
+"She is reading a fascinating book.",1
+"I am visiting my grandparents.",1
+"They are graduating from college.",1
+"He is buying a new phone.",1
+"We are going hiking.",1
+"She is cleaning the house.",1
+"They are attending a concert.",1
+"He is making a cake.",1
+"I am watching a documentary.",1
+"She is getting a promotion.",1
+"They are having lunch together.",1
+"He is learning to swim.",1
+"We are staying at a cozy cabin.",1
+"She is having a great time at the conference.",1
+"They are exploring the city.",1
+"He is writing a novel.",1
+"We are having a barbecue.",1
+"She is visiting her cousin.",1
+"They are watching the stars.",1
+"He is organizing a charity event.",1
+"We are playing board games.",1
+"She is attending a workshop.",1
+"They are spending the day at the beach.",1
+"He is building a treehouse.",1
+"I am watching a movie with friends.",1
+"She is attending a wedding.",1
+"They are enjoying a weekend getaway.",1
+"He is repairing the bike.",1
+"We are celebrating New Year's Eve.",1
+"She is completing her project.",1
+"They are traveling to Italy.",1
+"He is taking a cooking class.",1
+"I am meeting a celebrity.",1
+"I will walk to the store tomorrow.",2
+"She will finish her homework tonight.",2
+"They will watch a movie next weekend.",2
+"We will visit the museum next month.",2
+"He will cook dinner tomorrow evening.",2
+"The kids will play in the park tomorrow.",2
+"She will write a letter next week.",2
+"They will travel to Paris next summer.",2
+"I will find my keys tomorrow.",2
+"He will paint the house next year.",2
+"The teacher will explain the lesson tomorrow.",2
+"We will have a great time at the party next Saturday.",2
+"I will meet her at the airport next Friday.",2
+"She will run five miles tomorrow.",2
+"They will celebrate their anniversary next month.",2
+"He will fix the car next weekend.",2
+"We will eat at a new restaurant next night.",2
+"She will read a fascinating book next week.",2
+"I will visit my grandparents next summer.",2
+"They will graduate from college next year.",2
+"He will buy a new phone next month.",2
+"We will go hiking next Saturday.",2
+"She will clean the house next Wednesday.",2
+"They will attend a concert next night.",2
+"He will make a cake for her birthday next week.",2
+"I will watch a documentary tomorrow.",2
+"She will get a promotion next month.",2
+"They will have lunch together next Friday.",2
+"He will learn to swim next summer.",2
+"We will stay at a cozy cabin next winter.",2
+"She will have a great time at the conference next year.",2
+"They will explore the city next weekend.",2
+"He will write a novel next year.",2
+"We will have a barbecue next Saturday.",2
+"She will visit her cousin next month.",2
+"They will watch the stars next night.",2
+"He will organize a charity event next year.",2
+"We will play board games next Sunday.",2
+"She will attend a workshop next week.",2
+"They will spend the day at the beach next summer.",2
+"He will build a treehouse next fall.",2
+"I will watch a movie with friends next week.",2
+"She will attend a wedding next weekend.",2
+"They will enjoy a weekend getaway next month.",2
+"He will repair the bike next Sunday.",2
+"We will celebrate New Year's Eve next year.",2
+"She will complete her project tonight.",2
+"They will travel to Italy next spring.",2
+"He will take a cooking class next summer.",2
+"I will meet a celebrity next week.",2
+"Je suis allé au magasin hier.",0
+"Elle avait fini ses devoirs hier soir.",0
+"Ils ont vu un film le week-end dernier.",0
+"Nous avons visité le musée le mois dernier.",0
+"Il a préparé le dîner hier soir.",0
+"Les enfants ont joué au parc hier.",0
+"Elle a écrit une lettre la semaine dernière.",0
+"Ils ont voyagé à Paris l'été dernier.",0
+"J'ai perdu mes clés hier.",0
+"Il a peint la maison l'année dernière.",0
+"Le professeur a expliqué la leçon hier.",0
+"Nous avons passé un bon moment à la fête hier soir.",0
+"Je l'ai rencontrée à l'aéroport vendredi dernier.",0
+"Elle a couru cinq kilomètres hier.",0
+"Ils ont célébré leur anniversaire le mois dernier.",0
+"Il a réparé la voiture le week-end dernier.",0
+"Nous avons dîné dans un nouveau restaurant hier soir.",0
+"Elle a lu un livre fascinant la semaine dernière.",0
+"J'ai rendu visite à mes grands-parents l'été dernier.",0
+"Ils ont obtenu leur diplôme l'année dernière.",0
+"Il a acheté un nouveau téléphone le mois dernier.",0
+"Nous sommes allés en randonnée samedi dernier.",0
+"Elle a nettoyé la maison mercredi dernier.",0
+"Ils ont assisté à un concert hier soir.",0
+"Il a fait un gâteau pour son anniversaire la semaine dernière.",0
+"J'ai regardé un documentaire hier.",0
+"Elle a eu une promotion le mois dernier.",0
+"Ils ont déjeuné ensemble vendredi dernier.",0
+"Il a appris à nager l'été dernier.",0
+"Nous avons séjourné dans un chalet douillet cet hiver.",0
+"Elle a passé un bon moment à la conférence l'année dernière.",0
+"Ils ont exploré la ville le week-end dernier.",0
+"Il a écrit un roman l'année dernière.",0
+"Nous avons organisé un barbecue samedi dernier.",0
+"Elle a rendu visite à sa cousine le mois dernier.",0
+"Ils ont vu une étoile filante hier soir.",0
+"Il a organisé un événement caritatif l'année dernière.",0
+"Nous avons joué à des jeux de société dimanche dernier.",0
+"Elle a assisté à un atelier la semaine dernière.",0
+"Ils ont passé la journée à la plage l'été dernier.",0
+"Il a construit une cabane dans les arbres l'automne dernier.",0
+"J'ai regardé un film avec des amis la semaine dernière.",0
+"Elle a assisté à un mariage le week-end dernier.",0
+"Ils ont apprécié une escapade de week-end le mois dernier.",0
+"Il a réparé le vélo dimanche dernier.",0
+"Nous avons célébré le réveillon du Nouvel An l'année dernière.",0
+"Elle a terminé son projet hier soir.",0
+"Ils ont voyagé en Italie au printemps dernier.",0
+"Il a suivi un cours de cuisine l'été dernier.",0
+"J'ai rencontré une célébrité la semaine dernière.",0
+"Je marche au magasin maintenant.",1
+"Elle est en train de terminer ses devoirs.",1
+"Ils regardent un film.",1
+"Nous visitons le musée aujourd'hui.",1
+"Il est en train de préparer le dîner.",1
+"Les enfants jouent au parc.",1
+"Elle est en train d'écrire une lettre.",1
+"Ils voyagent à Paris.",1
+"Je cherche mes clés.",1
+"Il est en train de peindre la maison.",1
+"Le professeur explique la leçon.",1
+"Nous passons un bon moment à la fête.",1
+"Je rencontre quelqu'un à l'aéroport.",1
+"Elle court cinq kilomètres.",1
+"Ils célèbrent leur anniversaire.",1
+"Il est en train de réparer la voiture.",1
+"Nous dînons dans un nouveau restaurant.",1
+"Elle est en train de lire un livre fascinant.",1
+"Je rends visite à mes grands-parents.",1
+"Ils obtiennent leur diplôme.",1
+"Il achète un nouveau téléphone.",1
+"Nous partons en randonnée.",1
+"Elle est en train de nettoyer la maison.",1
+"Ils assistent à un concert.",1
+"Il prépare un gâteau.",1
+"Je regarde un documentaire.",1
+"Elle obtient une promotion.",1
+"Ils déjeunent ensemble.",1
+"Il apprend à nager.",1
+"Nous séjournons dans un chalet douillet.",1
+"Elle passe un bon moment à la conférence.",1
+"Ils explorent la ville.",1
+"Il écrit un roman.",1
+"Nous organisons un barbecue.",1
+"Elle rend visite à sa cousine.",1
+"Ils regardent les étoiles.",1
+"Il organise un événement caritatif.",1
+"Nous jouons à des jeux de société.",1
+"Elle assiste à un atelier.",1
+"Ils passent la journée à la plage.",1
+"Il construit une cabane dans les arbres.",1
+"Je regarde un film avec des amis.",1
+"Elle assiste à un mariage.",1
+"Ils apprécient une escapade de week-end.",1
+"Il répare le vélo.",1
+"Nous célébrons le réveillon du Nouvel An.",1
+"Elle termine son projet.",1
+"Ils voyagent en Italie.",1
+"Il suit un cours de cuisine.",1
+"Je rencontre une célébrité.",1
+"Je marcherai au magasin demain.",2
+"Elle finira ses devoirs ce soir.",2
+"Ils regarderont un film le week-end prochain.",2
+"Nous visiterons le musée le mois prochain.",2
+"Il préparera le dîner demain soir.",2
+"Les enfants joueront au parc demain.",2
+"Elle écrira une lettre la semaine prochaine.",2
+"Ils voyageront à Paris l'été prochain.",2
+"Je retrouverai mes clés demain.",2
+"Il peindra la maison l'année prochaine.",2
+"Le professeur expliquera la leçon demain.",2
+"Nous passerons un bon moment à la fête samedi prochain.",2
+"Je rencontrerai quelqu'un à l'aéroport vendredi prochain.",2
+"Elle courra cinq kilomètres demain.",2
+"Ils célébreront leur anniversaire le mois prochain.",2
+"Il réparera la voiture le week-end prochain.",2
+"Nous dînerons dans un nouveau restaurant la nuit prochaine.",2
+"Elle lira un livre fascinant la semaine prochaine.",2
+"Je rendrai visite à mes grands-parents l'été prochain.",2
+"Ils obtiendront leur diplôme l'année prochaine.",2
+"Il achètera un nouveau téléphone le mois prochain.",2
+"Nous partirons en randonnée samedi prochain.",2
+"Elle nettoiera la maison mercredi prochain.",2
+"Ils assisteront à un concert la nuit prochaine.",2
+"Il fera un gâteau pour son anniversaire la semaine prochaine.",2
+"Je regarderai un documentaire demain.",2
+"Elle obtiendra une promotion le mois prochain.",2
+"Ils déjeuneront ensemble vendredi prochain.",2
+"Il apprendra à nager l'été prochain.",2
+"Nous séjournerons dans un chalet douillet l'hiver prochain.",2
+"Elle passera un bon moment à la conférence l'année prochaine.",2
+"Ils exploreront la ville le week-end prochain.",2
+"Il écrira un roman l'année prochaine.",2
+"Nous organiserons un barbecue samedi prochain.",2
+"Elle rendra visite à sa cousine le mois prochain.",2
+"Ils regarderont les étoiles la nuit prochaine.",2
+"Il organisera un événement caritatif l'année prochaine.",2
+"Nous jouerons à des jeux de société dimanche prochain.",2
+"Elle assistera à un atelier la semaine prochaine.",2
+"Ils passeront la journée à la plage l'été prochain.",2
+"Il construira une cabane dans les arbres l'automne prochain.",2
+"Je regarderai un film avec des amis la semaine prochaine.",2
+"Elle assistera à un mariage le week-end prochain.",2
+"Ils apprécieront une escapade de week-end le mois prochain.",2
+"Il réparera le vélo dimanche prochain.",2
+"Nous célébrerons le réveillon du Nouvel An l'année prochaine.",2
+"Elle complétera son projet ce soir.",2
+"Ils voyageront en Italie au printemps prochain.",2
+"Il suivra un cours de cuisine l'été prochain.",2
+"Je rencontrerai une célébrité la semaine prochaine.",2
+"Fui a la tienda ayer.",0
+"Ella había terminado su tarea anoche.",0
+"Vieron una película el fin de semana pasado.",0
+"Visitamos el museo el mes pasado.",0
+"Él cocinó la cena ayer por la tarde.",0
+"Los niños jugaron en el parque ayer.",0
+"Escribió una carta la semana pasada.",0
+"Viajaron a París el verano pasado.",0
+"Perdí mis llaves ayer.",0
+"Él pintó la casa el año pasado.",0
+"El profesor explicó la lección ayer.",0
+"Pasamos un buen rato en la fiesta anoche.",0
+"La conocí en el aeropuerto el viernes pasado.",0
+"Corrió cinco kilómetros ayer.",0
+"Celebraron su aniversario el mes pasado.",0
+"Él reparó el coche el fin de semana pasado.",0
+"Cenamos en un nuevo restaurante anoche.",0
+"Leí un libro fascinante la semana pasada.",0
+"Visité a mis abuelos el verano pasado.",0
+"Se graduaron de la universidad el año pasado.",0
+"Compró un teléfono nuevo el mes pasado.",0
+"Fuimos de excursión el sábado pasado.",0
+"Limpié la casa el miércoles pasado.",0
+"Asistieron a un concierto anoche.",0
+"Hizo un pastel para su cumpleaños la semana pasada.",0
+"Vi un documental ayer.",0
+"Obtuvo una promoción el mes pasado.",0
+"Almorzaron juntos el viernes pasado.",0
+"Aprendió a nadar el verano pasado.",0
+"Nos alojamos en una cabaña acogedora este invierno.",0
+"Se divirtió mucho en la conferencia el año pasado.",0
+"Exploraron la ciudad el fin de semana pasado.",0
+"Escribió una novela el año pasado.",0
+"Hicimos una barbacoa el sábado pasado.",0
+"Visitó a su prima el mes pasado.",0
+"Vieron una estrella fugaz anoche.",0
+"Organizó un evento benéfico el año pasado.",0
+"Jugamos a juegos de mesa el domingo pasado.",0
+"Asistió a un taller la semana pasada.",0
+"Pasaron el día en la playa el verano pasado.",0
+"Construyó una casa en el árbol el otoño pasado.",0
+"Vi una película con amigos la semana pasada.",0
+"Asistió a una boda el fin de semana pasado.",0
+"Disfrutaron de una escapada de fin de semana el mes pasado.",0
+"Reparó la bicicleta el domingo pasado.",0
+"Celebraremos la víspera de Año Nuevo el año que viene.",0
+"Completó su proyecto anoche.",0
+"Viajaron a Italia la primavera pasada.",0
+"Tomó un curso de cocina el verano pasado.",0
+"Conocí a una celebridad la semana pasada.",0
+"Estoy caminando a la tienda ahora.",1
+"Está terminando su tarea.",1
+"Están viendo una película.",1
+"Estamos visitando el museo hoy.",1
+"Está preparando la cena.",1
+"Los niños están jugando en el parque.",1
+"Está escribiendo una carta.",1
+"Están viajando a París.",1
+"Estoy buscando mis llaves.",1
+"Está pintando la casa.",1
+"El profesor está explicando la lección.",1
+"Estamos pasando un buen rato en la fiesta.",1
+"Estoy encontrándome con ella en el aeropuerto.",1
+"Está corriendo cinco kilómetros.",1
+"Están celebrando su aniversario.",1
+"Está reparando el coche.",1
+"Estamos cenando en un nuevo restaurante.",1
+"Está leyendo un libro fascinante.",1
+"Estoy visitando a mis abuelos.",1
+"Están graduándose de la universidad.",1
+"Está comprando un teléfono nuevo.",1
+"Vamos de excursión.",1
+"Está limpiando la casa.",1
+"Están asistiendo a un concierto.",1
+"Está haciendo un pastel.",1
+"Estoy viendo un documental.",1
+"Está obteniendo una promoción.",1
+"Están almorzando juntos.",1
+"Está aprendiendo a nadar.",1
+"Estamos alojándonos en una cabaña acogedora.",1
+"Está divirtiéndose mucho en la conferencia.",1
+"Están explorando la ciudad.",1
+"Está escribiendo una novela.",1
+"Estamos haciendo una barbacoa.",1
+"Está visitando a su prima.",1
+"Están mirando las estrellas.",1
+"Está organizando un evento benéfico.",1
+"Estamos jugando a juegos de mesa.",1
+"Está asistiendo a un taller.",1
+"Están pasando el día en la playa.",1
+"Está construyendo una casa en el árbol.",1
+"Estoy viendo una película con amigos.",1
+"Está asistiendo a una boda.",1
+"Están disfrutando de una escapada de fin de semana.",1
+"Está reparando la bicicleta.",1
+"Estamos celebrando la víspera de Año Nuevo.",1
+"Está completando su proyecto.",1
+"Están viajando a Italia.",1
+"Está tomando un curso de cocina.",1
+"Estoy conociendo a una celebridad.",1
+"Caminaré a la tienda mañana.",2
+"Terminará su tarea esta noche.",2
+"Verán una película el fin de semana que viene.",2
+"Visitaremos el museo el mes que viene.",2
+"Preparará la cena mañana por la tarde.",2
+"Los niños jugarán en el parque mañana.",2
+"Escribirá una carta la semana que viene.",2
+"Viajarán a París el verano que viene.",2
+"Encontraré mis llaves mañana.",2
+"Pintará la casa el año que viene.",2
+"El profesor explicará la lección mañana.",2
+"Pasaremos un buen rato en la fiesta el sábado que viene.",2
+"Me encontraré con ella en el aeropuerto el viernes que viene.",2
+"Correrá cinco kilómetros mañana.",2
+"Celebrarán su aniversario el mes que viene.",2
+"Reparará el coche el fin de semana que viene.",2
+"Cenaremos en un nuevo restaurante la noche que viene.",2
+"Leerá un libro fascinante la semana que viene.",2
+"Visitaré a mis abuelos el verano que viene.",2
+"Se graduarán de la universidad el año que viene.",2
+"Comprará un teléfono nuevo el mes que viene.",2
+"Iremos de excursión el sábado que viene.",2
+"Limpiaremos la casa el miércoles que viene.",2
+"Asistirán a un concierto la noche que viene.",2
+"Hará un pastel para su cumpleaños la semana que viene.",2
+"Veré un documental mañana.",2
+"Obtenrá una promoción el mes que viene.",2
+"Almorzarán juntos el viernes que viene.",2
+"Aprenderá a nadar el verano que viene.",2
+"Nos alojaremos en una cabaña acogedora el invierno que viene.",2
+"Se divertirá mucho en la conferencia el año que viene.",2
+"Explorarán la ciudad el fin de semana que viene.",2
+"Escribirá una novela el año que viene.",2
+"Haremos una barbacoa el sábado que viene.",2
+"Visitará a su prima el mes que viene.",2
+"Mirarán las estrellas la noche que viene.",2
+"Organizará un evento benéfico el año que viene.",2
+"Jugaremos a juegos de mesa el domingo que viene.",2
+"Asistirá a un taller la semana que viene.",2
+"Pasarán el día en la playa el verano que viene.",2
+"Construirá una casa en el árbol el otoño que viene.",2
+"Veré una película con amigos la semana que viene.",2
+"Asistirá a una boda el fin de semana que viene.",2
+"Disfrutarán de una escapada de fin de semana el mes que viene.",2
+"Reparará la bicicleta el domingo que viene.",2
+"Celebramos la víspera de Año Nuevo el año que viene.",2
+"Completaré su proyecto esta noche.",2
+"Viajarán a Italia la primavera que viene.",2
+"Tomará un curso de cocina el verano que viene.",2
+"Conoceré a una celebridad la semana que viene.",2
+"I walked to the store yesterday.",0
+"She had finished her homework last night.",0
+"They saw a movie last weekend.",0
+"We visited the museum last month.",0
+"He cooked dinner yesterday evening.",0
+"The kids played in the park yesterday.",0
+"She wrote a letter last week.",0
+"They traveled to Paris last summer.",0
+"I lost my keys yesterday.",0
+"He painted the house last year.",0
+"The teacher explained the lesson yesterday.",0
+"We had a great time at the party last night.",0
+"I met her at the airport last Friday.",0
+"She ran five miles yesterday.",0
+"They celebrated their anniversary last month.",0
+"He fixed the car last weekend.",0
+"We ate at a new restaurant last night.",0
+"She read a fascinating book last week.",0
+"I visited my grandparents last summer.",0
+"They graduated from college last year.",0
+"He bought a new phone last month.",0
+"We went hiking last Saturday.",0
+"She cleaned the house last Wednesday.",0
+"They attended a concert last night.",0
+"He made a cake for her birthday last week.",0
+"I watched a documentary yesterday.",0
+"She got a promotion last month.",0
+"They had lunch together last Friday.",0
+"He learned to swim last summer.",0
+"We stayed at a cozy cabin last winter.",0
+"She had a great time at the conference last year.",0
+"They explored the city last weekend.",0
+"He wrote a novel last year.",0
+"We had a barbecue last Saturday.",0
+"She visited her cousin last month.",0
+"They saw a shooting star last night.",0
+"He organized a charity event last year.",0
+"We played board games last Sunday.",0
+"She attended a workshop last week.",0
+"They spent the day at the beach last summer.",0
+"He built a treehouse last fall.",0
+"I watched a movie with friends last week.",0
+"She attended a wedding last weekend.",0
+"They enjoyed a weekend getaway last month.",0
+"He repaired the bike last Sunday.",0
+"We celebrated New Year's Eve last year.",0
+"She completed her project last night.",0
+"They traveled to Italy last spring.",0
+"He took a cooking class last summer.",0
+"I met a celebrity last week.",0
+"She had just left when I arrived.",0
+"They had been waiting for hours before the bus arrived.",0
+"She had never seen the ocean before that trip.",0
+"We had already eaten when they showed up.",0
+"He had written three chapters before he stopped.",0
+"I had called her several times before she answered.",0
+"By the time we got there, the movie had started.",0
+"They had been studying for the exam all week.",0
+"He had never been so excited before.",0
+"We had planned the trip months in advance.",0
+"She had lost her wallet by the time she reached the store.",0
+"I had finished the book before the meeting.",0
+"They had been friends since childhood.",0
+"She had always dreamed of becoming a pilot.",0
+"He had cleaned the garage before the guests arrived.",0
+"I had never been to that restaurant before.",0
+"They had completed their tasks by the end of the day.",0
+"He had worked at the company for ten years before he retired.",0
+"We had rehearsed the play multiple times.",0
+"She had bought the tickets weeks ago.",0
+"They had visited the museum before it closed.",0
+"He had left the office before the storm started.",0
+"I had met him before the conference last year.",0
+"We had already seen that movie before.",0
+"She had taught at the school for five years before moving.",0
+"They had invited everyone to the party.",0
+"He had saved enough money to buy the car.",0
+"She had spent the whole day shopping.",0
+"They had been planning the event for months.",0
+"He had finished his presentation before the deadline.",0
+"I had read the entire book by the end of the weekend.",0
+"She had traveled to many countries before.",0
+"They had stayed at that hotel before.",0
+"By the time we arrived, they had already left.",0
+"He had run a marathon before he turned thirty.",0
+"I had learned the recipe from my grandmother.",0
+"We had visited that city before our trip last year.",0
+"She had cooked dinner before the guests arrived.",0
+"They had been to that restaurant several times.",0
+"He had painted the room before we moved in.",0
+"I had given the speech at the conference.",0
+"She had walked the dog before it rained.",0
+"They had known each other for years before the wedding.",0
+"He had planned a surprise party for her.",0
+"She had attended several workshops before.",0
+"They had explored the old town before it got dark.",0
+"He had finished his shift before noon.",0
+"I had heard that song before the concert.",0
+"We had visited the park many times before.",0
+"She had met her idol during a book signing.",0
+"They had arranged the furniture before the guests came.",0
+"He had traveled to Japan before moving there.",0
+"I had cooked breakfast before everyone woke up.",0
+"She had taken piano lessons as a child.",0
+"They had returned from their vacation by the time we met.",0
+"He had never seen such a beautiful sunset before.",0
+"She had always wanted to visit Australia.",0
+"We had cleaned the house before the inspection.",0
+"By the time I called her, she had already left.",0
+"She has just arrived at the airport.",1
+"They are currently watching a movie.",1
+"He is writing a new novel.",1
+"We are visiting the museum today.",1
+"She is cooking dinner right now.",1
+"The kids are playing in the backyard.",1
+"He is fixing the car at the moment.",1
+"I am looking for my keys.",1
+"We are having lunch at a new restaurant.",1
+"She is reading a book on the couch.",1
+"They are celebrating their anniversary this week.",1
+"She is taking a photography class this semester.",1
+"He is learning to play the guitar.",1
+"We are planning a trip for next month.",1
+"She is doing yoga in the living room.",1
+"They are having a barbecue in the backyard.",1
+"He is organizing a charity event this weekend.",1
+"We are going hiking this Saturday.",1
+"She is attending a conference today.",1
+"They are painting the house this week.",1
+"I am meeting with a friend for coffee.",1
+"She is working on a new project.",1
+"They are exploring the city this afternoon.",1
+"He is cooking breakfast for the family.",1
+"We are staying at a cabin for the weekend.",1
+"She is visiting her cousin this month.",1
+"They are preparing for their exams.",1
+"He is building a new bookshelf.",1
+"We are celebrating my birthday this Friday.",1
+"She is studying for her final exams.",1
+"They are planning a weekend getaway.",1
+"He is repairing the bike today.",1
+"I am watching a documentary on TV.",1
+"She is working on her thesis.",1
+"They are attending a wedding next weekend.",1
+"He is traveling to New York next month.",1
+"We are going to the beach tomorrow.",1
+"She is organizing her office today.",1
+"They are playing board games tonight.",1
+"He is taking a break right now.",1
+"I am catching up on some reading.",1
+"She is enjoying a spa day today.",1
+"They are moving to a new house next week.",1
+"He is finishing his presentation now.",1
+"We are decorating the house for the party.",1
+"She is learning Spanish this year.",1
+"They are having dinner with friends tonight.",1
+"He is finishing his shift at work.",1
+"I am calling my family this evening.",1
+"She is visiting a museum today.",1
+"They are hosting a dinner party this weekend.",1
+"He is studying for a big test tomorrow.",1
+"We are enjoying a movie night at home.",1
+"She is participating in a marathon next month.",1
+"They are working on their garden today.",1
+"He is writing an email to his manager.",1
+"I will walk to the store tomorrow.",2
+"She will finish her homework tonight.",2
+"They will watch a movie next weekend.",2
+"We will visit the museum next month.",2
+"He will cook dinner tomorrow evening.",2
+"The kids will play in the park tomorrow.",2
+"She will write a letter next week.",2
+"They will travel to Paris next summer.",2
+"I will find my keys tomorrow.",2
+"He will paint the house next year.",2
+"The teacher will explain the lesson tomorrow.",2
+"We will have a great time at the party next Saturday.",2
+"I will meet her at the airport next Friday.",2
+"She will run five miles tomorrow.",2
+"They will celebrate their anniversary next month.",2
+"He will fix the car next weekend.",2
+"We will eat at a new restaurant next night.",2
+"She will read a fascinating book next week.",2
+"I will visit my grandparents next summer.",2
+"They will graduate from college next year.",2
+"He will buy a new phone next month.",2
+"We will go hiking next Saturday.",2
+"She will clean the house next Wednesday.",2
+"They will attend a concert next night.",2
+"He will make a cake for her birthday next week.",2
+"I will watch a documentary tomorrow.",2
+"She will get a promotion next month.",2
+"They will have lunch together next Friday.",2
+"He will learn to swim next summer.",2
+"We will stay at a cozy cabin next winter.",2
+"She will have a great time at the conference next year.",2
+"They will explore the city next weekend.",2
+"He will write a novel next year.",2
+"We will have a barbecue next Saturday.",2
+"She will visit her cousin next month.",2
+"They will see a shooting star next night.",2
+"He will organize a charity event next year.",2
+"We will play board games next Sunday.",2
+"She will attend a workshop next week.",2
+"They will spend the day at the beach next summer.",2
+"He will build a treehouse next fall.",2
+"I will watch a movie with friends next week.",2
+"She will attend a wedding next weekend.",2
+"They will enjoy a weekend getaway next month.",2
+"He will repair the bike next Sunday.",2
+"We will celebrate New Year's Eve next year.",2
+"She will complete her project tonight.",2
+"They will travel to Italy next spring.",2
+"He will take a cooking class next summer.",2
+"I will meet a celebrity next week.",2
+"I walked to the store yesterday.",0
+"She finished her homework last night.",0
+"They watched a movie last weekend.",0
+"We visited the park last month.",0
+"He cooked dinner yesterday.",0
+"The kids played outside yesterday.",0
+"She wrote a letter last week.",0
+"They traveled to New York last summer.",0
+"I lost my keys yesterday.",0
+"He painted the fence last year.",0
+"The teacher explained the lesson yesterday.",0
+"We had a party last night.",0
+"I met her at the mall last Friday.",0
+"She ran a mile yesterday.",0
+"They celebrated their birthday last month.",0
+"He fixed the bike last weekend.",0
+"We ate at a new restaurant last night.",0
+"She read a book last week.",0
+"I visited my aunt last summer.",0
+"They graduated last year.",0
+"He bought a new laptop last month.",0
+"We went for a walk last Saturday.",0
+"She cleaned the house last Wednesday.",0
+"They went to a concert last night.",0
+"He made a cake last week.",0
+"I watched TV yesterday.",0
+"She got a new job last month.",0
+"They had lunch together last Friday.",0
+"He learned to cook last summer.",0
+"We stayed in a cabin last winter.",0
+"She enjoyed the movie last year.",0
+"They explored the city last weekend.",0
+"He wrote a story last year.",0
+"We had a barbecue last Saturday.",0
+"She visited her cousin last month.",0
+"They saw a shooting star last night.",0
+"He organized a game night last year.",0
+"We played games last Sunday.",0
+"She attended a class last week.",0
+"They spent the day at the beach last summer.",0
+"He built a birdhouse last fall.",0
+"I watched a film with friends last week.",0
+"She went to a wedding last weekend.",0
+"They had a fun weekend last month.",0
+"He repaired the car last Sunday.",0
+"We celebrated New Year’s last year.",0
+"She finished her project last night.",0
+"They went to Italy last spring.",0
+"He took a painting class last summer.",0
+"I met a famous person last week.",0
+"I am walking to the store now.",1
+"She is finishing her homework.",1
+"They are watching a movie.",1
+"We are visiting the park today.",1
+"He is cooking dinner right now.",1
+"The kids are playing outside.",1
+"She is writing a letter.",1
+"They are traveling to New York this summer.",1
+"I am looking for my keys.",1
+"He is painting the fence.",1
+"The teacher is explaining the lesson.",1
+"We are having a party tonight.",1
+"I am meeting her at the mall this Friday.",1
+"She is running a mile today.",1
+"They are celebrating their birthday this month.",1
+"He is fixing the bike now.",1
+"We are eating at a new restaurant tonight.",1
+"She is reading a book right now.",1
+"I am visiting my aunt this summer.",1
+"They are graduating this year.",1
+"He is buying a new laptop this month.",1
+"We are going for a walk tomorrow.",1
+"She is cleaning the house now.",1
+"They are going to a concert tonight.",1
+"He is making a cake today.",1
+"I am watching TV now.",1
+"She is getting a new job this month.",1
+"They are having lunch together this Friday.",1
+"He is learning to cook this summer.",1
+"We are staying in a cabin this winter.",1
+"She is enjoying the movie today.",1
+"They are exploring the city this weekend.",1
+"He is writing a story now.",1
+"We are having a barbecue this Saturday.",1
+"She is visiting her cousin this month.",1
+"They are seeing a shooting star tonight.",1
+"He is organizing a game night this year.",1
+"We are playing games this Sunday.",1
+"She is attending a class this week.",1
+"They are spending the day at the beach this summer.",1
+"He is building a birdhouse this fall.",1
+"I am watching a film with friends this week.",1
+"She is going to a wedding this weekend.",1
+"They are having a fun weekend this month.",1
+"He is repairing the car this Sunday.",1
+"We are celebrating New Year’s this year.",1
+"She is finishing her project tonight.",1
+"They are going to Italy this spring.",1
+"He is taking a painting class this summer.",1
+"I am meeting a famous person this week.",1
+"I will walk to the store tomorrow.",2
+"She will finish her homework tonight.",2
+"They will watch a movie next weekend.",2
+"We will visit the park next month.",2
+"He will cook dinner tomorrow.",2
+"The kids will play outside tomorrow.",2
+"She will write a letter next week.",2
+"They will travel to New York next summer.",2
+"I will find my keys tomorrow.",2
+"He will paint the fence next year.",2
+"The teacher will explain the lesson tomorrow.",2
+"We will have a party next Saturday.",2
+"I will meet her at the mall next Friday.",2
+"She will run a mile tomorrow.",2
+"They will celebrate their birthday next month.",2
+"He will fix the bike next weekend.",2
+"We will eat at a new restaurant next night.",2
+"She will read a book next week.",2
+"I will visit my aunt next summer.",2
+"They will graduate next year.",2
+"He will buy a new laptop next month.",2
+"We will go for a walk next Saturday.",2
+"She will clean the house next Wednesday.",2
+"They will go to a concert next night.",2
+"He will make a cake next week.",2
+"I will watch TV tomorrow.",2
+"She will get a new job next month.",2
+"They will have lunch together next Friday.",2
+"He will learn to cook next summer.",2
+"We will stay in a cabin next winter.",2
+"She will enjoy the movie next year.",2
+"They will explore the city next weekend.",2
+"He will write a story next year.",2
+"We will have a barbecue next Saturday.",2
+"She will visit her cousin next month.",2
+"They will see a shooting star next night.",2
+"He will organize a game night next year.",2
+"We will play games next Sunday.",2
+"She will attend a class next week.",2
+"They will spend the day at the beach next summer.",2
+"He will build a birdhouse next fall.",2
+"I will watch a film with friends next week.",2
+"She will go to a wedding next weekend.",2
+"They will have a fun weekend next month.",2
+"He will repair the car next Sunday.",2
+"We will celebrate New Year’s next year.",2
+"She will finish her project tonight.",2
+"They will go to Italy next spring.",2
+"He will take a painting class next summer.",2
+"I will meet a famous person next week.",2
+"I walk to the park.",1
+"She finishes her book.",1
+"They watch TV.",1
+"We visit our friends.",1
+"He cooks breakfast.",1
+"The kids play video games.",1
+"She writes a thank-you note.",1
+"They travel to the beach.",1
+"I look for my wallet.",1
+"He paints a picture.",1
+"The teacher explains the topic.",1
+"We have dinner at a restaurant.",1
+"I meet her at the coffee shop.",1
+"She runs a marathon.",1
+"They celebrate their anniversary.",1
+"He fixes the washing machine.",1
+"We eat pizza.",1
+"She reads a novel.",1
+"I visit a museum.",1
+"They graduate this year.",1
+"He buys a new bike.",1
+"We go to the zoo.",1
+"She cleans her room.",1
+"They go bowling.",1
+"He makes a smoothie.",1
+"I watch a sports game.",1
+"She gets a haircut.",1
+"They have brunch.",1
+"He learns to play the piano.",1
+"We stay at a beach house.",1
+"She enjoys the concert.",1
+"They explore a new park.",1
+"He writes a letter.",1
+"We have a picnic.",1
+"She visits her parents.",1
+"They see a great play.",1
+"He organizes a family gathering.",1
+"We play chess.",1
+"She attends a seminar.",1
+"They spend the day at the lake.",1
+"He builds a birdhouse.",1
+"I watch a comedy show.",1
+"She goes to a film festival.",1
+"They have a fun weekend.",1
+"He repairs his car.",1
+"We celebrate my graduation.",1
+"She finishes her painting.",1
+"They go to the aquarium.",1
+"He takes a yoga class.",1
+"I meet a new neighbor.",1
+"She has a great meal.",1
+"They enjoy a movie marathon.",1
+"He makes homemade bread.",1
+"Maine kal park mein walk kiya.",0
+"Usne apna homework raat ko complete kiya.",0
+"Unhone puri shaam TV dekha.",0
+"Humne pichle hafte apne dada-dadi se mulaqat ki.",0
+"Usne raat ko khana banaya.",0
+"Bachon ne kal garden mein khela.",0
+"Maine weekend par ek movie dekhi.",0
+"Unhone pichle saal ek treehouse banaya.",0
+"Usne pichle saal swimming seekhi.",0
+"Maine kal exam ki tayari ki.",0
+"Humne weekend mein room paint kiya.",0
+"Usne Italy ka safar pichle saal kiya.",0
+"Maine pichle mahine voh kitab padhi.",0
+"Usne kal apna kamra saaf kiya.",0
+"Humne weekend mein football khela.",0
+"Unhone apni birthday party pichle mahine manayi.",0
+"Maine kal cafe mein apne dost se mulaqat ki.",0
+"Usne pichle hafte ek naya phone kharida.",0
+"Hum pichle Saturday ko museum gaye the.",0
+"Usne mujhe pichle saal ek gift diya.",0
+"Unhone kal raat concert attend kiya.",0
+"Usne kal apni car repair ki.",0
+"Humne pichle Sunday picnic manayi.",0
+"Usne apni kitaab pichle hafte khatam ki.",0
+"Unhone pichle saal ek naye ghar mein shift kiya.",0
+"Maine kal uski project mein madad ki.",0
+"Usne pichle mahine roof ka leakage theek kiya.",0
+"Humne weekend pe party ka anand liya.",0
+"Usne pichle summer Spain ghooma.",0
+"Unhone apna project pichle Friday complete kiya.",0
+"Usne pichle saal apne dost ko letter likha.",0
+"Unhone naye ghar mein shift kiya.",0
+"Maine project mein madad ki.",0
+"Usne roof ka leakage theek kiya.",0
+"Humne party ka anand liya.",0
+"Usne Spain ghooma.",0
+"Unhone project complete kiya.",0
+"Usne letter likha.",0
+"Usne apna phone kho diya tha.",0
+"Maine kal raat doston ke sath dinner kiya.",0
+"Usne apna bag ghar bhool gaya tha.",0
+"Humne subah jaldi uth gaye the.",0
+"Unhone hume kal raat call kiya tha.",0
+"Usne apni bike repair karwayi thi.",0
+"Maine kal bazaar se samaan kharida.",0
+"Usne apna assignment submit kiya.",0
+"Unhone pichle hafte ek match jeeta.",0
+"Humne kal ek film dekhi thi.",0
+"Maine us din mandir gaya tha.",0
+"Usne kal ek nayi dress li.",0
+"Unhone sabko khushi se invite kiya tha.",0
+"Humne pichli raat dance kiya.",0
+"Usne kal ek book padhi thi.",0
+"Maine apni car chalayi thi.",0
+"Usne pichle mahine ek course complete kiya.",0
+"Unhone kal ek photo kheechi thi.",0
+"Maine ghar ka kaam khatam kiya tha.",0
+"Maine park mein walk karta hoon.",1
+"Usne apna homework complete karti hai.",1
+"Unhone TV dekhte hain.",1
+"Hum apne dost se milte hain.",1
+"Usne khana banata hai.",1
+"Bachon ne garden mein khelte hain.",1
+"Maine ek movie dekhta hoon.",1
+"Unhone treehouse banate hain.",1
+"Usne swimming seekhti hai.",1
+"Maine exam ki tayari karta hoon.",1
+"Hum room paint karte hain.",1
+"Usne Italy ka safar karta hai.",1
+"Maine kitab padhta hoon.",1
+"Usne apna kamra saaf karti hai.",1
+"Hum football khelte hain.",1
+"Unhone birthday manate hain.",1
+"Maine cafe mein dost se milta hoon.",1
+"Usne naya phone kharidta hai.",1
+"Hum museum jaate hain.",1
+"Usne mujhe gift deti hai.",1
+"Unhone concert attend karte hain.",1
+"Usne apni car repair karta hai.",1
+"Hum picnic manate hain.",1
+"Usne apni kitaab padhti hai.",1
+"Unhone naye ghar mein shift karte hain.",1
+"Maine project mein madad karta hoon.",1
+"Usne roof ka leakage theek karta hai.",1
+"Hum party ka anand lete hain.",1
+"Usne Spain jaata hai.",1
+"Unhone project complete karte hain.",1
+"Usne letter likhta hai.",1
+"Usne apna phone kho deta hai.",1
+"Maine doston ke sath dinner karta hoon.",1
+"Usne apna bag ghar bhoolta hai.",1
+"Hum jaldi uth jaate hain.",1
+"Unhone hume call karte hain.",1
+"Usne apni bike repair karata hai.",1
+"Maine bazaar se samaan kharidta hoon.",1
+"Usne apna assignment submit karti hai.",1
+"Unhone ek match jeette hain.",1
+"Hum ek film dekhte hain.",1
+"Maine mandir jaata hoon.",1
+"Usne nayi dress kharidti hai.",1
+"Unhone sabko invite karte hain.",1
+"Hum dance karte hain.",1
+"Usne ek book padhti hai.",1
+"Maine apni car chalaata hoon.",1
+"Usne ek course complete karti hai.",1
+"Unhone photo kheechte hain.",1
+"Maine ghar ka kaam karta hoon.",1
+"Maine kal park mein walk karunga.",2
+"Usne apna homework complete karegi.",2
+"Unhone TV dekhenge.",2
+"Hum apne dost se milenge.",2
+"Usne khana banayega.",2
+"Bachon ne garden mein khelne jayenge.",2
+"Maine ek movie dekhunga.",2
+"Unhone treehouse banayenge.",2
+"Usne swimming seekhegi.",2
+"Maine exam ki tayari karunga.",2
+"Hum room paint karenge.",2
+"Usne Italy ka safar karega.",2
+"Maine kitab padunga.",2
+"Usne apna kamra saaf karegi.",2
+"Hum football khelenge.",2
+"Unhone birthday manayenge.",2
+"Maine cafe mein dost se milunga.",2
+"Usne naya phone kharidega.",2
+"Hum museum jayenge.",2
+"Usne mujhe gift degi.",2
+"Unhone concert attend karenge.",2
+"Usne apni car repair karega.",2
+"Hum picnic manayenge.",2
+"Usne apni kitaab khatam karegi.",2
+"Unhone naye ghar mein shift karenge.",2
+"Maine project mein madad karunga.",2
+"Usne roof ka leakage theek karega.",2
+"Hum party ka anand lenge.",2
+"Usne Spain jayegi.",2
+"Unhone project complete karenge.",2
+"Usne letter likhega.",2
+"Usne apna phone kho dega.",2
+"Maine doston ke sath dinner karunga.",2
+"Usne apna bag ghar bhool jayegi.",2
+"Hum jaldi uth jayenge.",2
+"Unhone hume call karenge.",2
+"Usne apni bike repair karega.",2
+"Maine bazaar se samaan kharidunga.",2
+"Usne apna assignment submit karegi.",2
+"Unhone ek match jeetenge.",2
+"Hum ek film dekhenge.",2
+"Maine mandir jaunga.",2
+"Usne nayi dress kharidega.",2
+"Unhone sabko invite karenge.",2
+"Hum dance karenge.",2
+"Usne ek book padhegi.",2
+"Maine apni car chalaunga.",2
+"Usne ek course complete karegi.",2
+"Unhone photo kheechenge.",2
+"Maine ghar ka kaam karunga.",2
+"Maine kal park mein walk kiya.",0
+"Usne apna homework raat ko complete kiya.",0
+"Unhone puri shaam TV dekha.",0
+"Humne pichle hafte apne dost se mulaqat ki.",0
+"Usne raat ko khana banaya.",0
+"Bachon ne kal garden mein khela.",0
+"Maine weekend par ek movie dekhi.",0
+"Unhone pichle saal ek treehouse banaya.",0
+"Usne pichle saal swimming seekhi.",0
+"Maine kal exam ki tayari ki.",0
+"Humne pichle hafte room paint kiya.",0
+"Usne Italy ka safar pichle saal kiya.",0
+"Maine pichle mahine voh kitab padhi.",0
+"Usne kal apna kamra saaf kiya.",0
+"Humne weekend mein football khela.",0
+"Unhone birthday pichle mahine manayi.",0
+"Maine kal apne dost se cafe mein mulaqat ki.",0
+"Usne pichle hafte ek naya phone kharida.",0
+"Humne Saturday ko museum gaye the.",0
+"Usne mujhe pichle saal ek gift diya.",0
+"Unhone kal concert attend kiya.",0
+"Usne kal apni car repair ki.",0
+"Humne kal picnic manayi.",0
+"Usne apni kitaab pichle hafte khatam ki.",0
+"Unhone pichle saal ek naye ghar mein shift kiya.",0
+"Maine kal uski project mein madad ki.",0
+"Usne pichle mahine roof ka leakage theek kiya.",0
+"Humne weekend pe party ka anand liya.",0
+"Usne pichle summer Spain ghooma.",0
+"Unhone apna project pichle Friday complete kiya.",0
+"Usne pichle saal apne dost ko letter likha.",0
+"Maine park mein walk karta hoon.",1
+"Usne apna homework complete karti hai.",1
+"Unhone TV dekhte hain.",1
+"Hum apne dost se milte hain.",1
+"Usne khana banata hai.",1
+"Bachon ne garden mein khelte hain.",1
+"Maine ek movie dekhta hoon.",1
+"Unhone treehouse banate hain.",1
+"Usne swimming seekhti hai.",1
+"Maine exam ki tayari karta hoon.",1
+"Hum room paint karte hain.",1
+"Usne Italy ka safar karta hai.",1
+"Maine kitab padhta hoon.",1
+"Usne apna kamra saaf karti hai.",1
+"Hum football khelte hain.",1
+"Unhone birthday manate hain.",1
+"Maine cafe mein dost se milta hoon.",1
+"Usne naya phone kharidta hai.",1
+"Hum museum jaate hain.",1
+"Usne mujhe gift deti hai.",1
+"Unhone concert attend karte hain.",1
+"Usne apni car repair karta hai.",1
+"Hum picnic manate hain.",1
+"Usne apni kitaab padhti hai.",1
+"Unhone naye ghar mein shift karte hain.",1
+"Maine project mein madad karta hoon.",1
+"Usne roof ka leakage theek karta hai.",1
+"Hum party ka anand lete hain.",1
+"Usne Spain jaata hai.",1
+"Unhone project complete karte hain.",1
+"Usne letter likhta hai.",1
+"Maine kal park mein walk karunga.",2
+"Usne apna homework complete karegi.",2
+"Unhone TV dekhenge.",2
+"Hum apne dost se milenge.",2
+"Usne khana banayega.",2
+"Bachon ne garden mein khelne jayenge.",2
+"Maine ek movie dekhunga.",2
+"Unhone treehouse banayenge.",2
+"Usne swimming seekhegi.",2
+"Maine exam ki tayari karunga.",2
+"Hum room paint karenge.",2
+"Usne Italy ka safar karega.",2
+"Maine kitab padunga.",2
+"Usne apna kamra saaf karegi.",2
+"Hum football khelenge.",2
+"Unhone birthday manayenge.",2
+"Maine cafe mein dost se milunga.",2
+"Usne naya phone kharidega.",2
+"Hum museum jayenge.",2
+"Usne mujhe gift degi.",2
+"Unhone concert attend karenge.",2
+"Usne apni car repair karega.",2
+"Hum picnic manayenge.",2
+"Usne apni kitaab khatam karegi.",2
+"Unhone naye ghar mein shift karenge.",2
+"Maine project mein madad karunga.",2
+"Usne roof ka leakage theek karega.",2
+"Hum party ka anand lenge.",2
+"Usne Spain jayegi.",2
+"Unhone project complete karenge.",2
+"Usne letter likhega.",2
+"Maine kal ek nayi kitaab kharidi thi.",0
+"Usne raat ko chai banayi thi.",0
+"Humne kal ek dost ki madad ki thi.",0
+"Unhone pichle mahine ek naye project par kaam shuru kiya tha.",0
+"Maine do din pehle bazaar gaya tha.",0
+"Usne kal raat ek movie dekhi thi.",0
+"Humne ek week pehle dinner party host ki thi.",0
+"Unhone kal mujhe phone kiya tha.",0
+"Maine kal tumhe message bheja tha.",0
+"Usne do din pehle ek important meeting attend ki thi.",0
+"Humne pichle Sunday ek park mein ghooma tha.",0
+"Unhone pichli raat ek concert attend kiya tha.",0
+"Usne kal apna kamra saaf kiya tha.",0
+"Humne kal ek nayi car kharidi thi.",0
+"Maine pichle mahine apna exam diya tha.",0
+"Unhone apna ghar do saal pehle renovate kiya tha.",0
+"Usne kal apni bike repair karayi thi.",0
+"Maine kal apne dost ko letter likha tha.",0
+"Humne pichle hafte ek plan banaya tha.",0
+"Unhone apni school trip pichle saal enjoy ki thi.",0
+"Usne kal subah ek coffee pi thi.",0
+"Maine do din pehle apna laptop fix karaya tha.",0
+"Usne kal apna homework complete kiya tha.",0
+"Humne pichli raat game kheli thi.",0
+"Unhone apne bachpan ke dost se mulaqat ki thi.",0
+"Usne kal apne parivar ke sath dinner kiya tha.",0
+"Maine apne ghar ka renovation kal khatam kiya tha.",0
+"Usne kal ek nayi dress kharidi thi.",0
+"Humne kal ek purani photo album dekhi thi.",0
+"Unhone apna project timely complete kiya tha.",0
+"Maine subah exercise ki thi.",0
+"Usne kal doston ke sath shopping ki thi.",0
+"Hum roz subah tea peete hain.",1
+"Unhone apni assignment time par complete karte hain.",1
+"Usne roz ghar ka kaam karti hai.",1
+"Maine roz newspaper padhta hoon.",1
+"Hum roz subah jogging karte hain.",1
+"Unhone apne office ke liye tayari karte hain.",1
+"Usne roz apna kamra saaf karti hai.",1
+"Maine roz subah jaldi uthta hoon.",1
+"Hum doston ke sath weekend par football khelte hain.",1
+"Usne roz apni diary likhti hai.",1
+"Unhone apni family ke sath dinner karte hain.",1
+"Hum roz raat ko TV dekhte hain.",1
+"Usne apni mom ke sath khana banati hai.",1
+"Maine har hafte ek nayi kitaab padhta hoon.",1
+"Hum apne office ka kaam complete karte hain.",1
+"Unhone har weekend apni car wash karte hain.",1
+"Usne roz subah yoga karti hai.",1
+"Maine roz class attend karta hoon.",1
+"Hum apni meetings ke liye notes banate hain.",1
+"Unhone roz apni office work kiye hain.",1
+"Usne har din apne project par kaam karti hai.",1
+"Hum daily gym jaate hain.",1
+"Unhone apne bacchon ke liye breakfast banate hain.",1
+"Usne apna homework roz karti hai.",1
+"Maine roz apna code practice karta hoon.",1
+"Hum roz apna ghar saaf karte hain.",1
+"Unhone apni meetings attend ki hain.",1
+"Usne roz online class join karti hai.",1
+"Maine har raat ek movie dekhta hoon.",1
+"Hum daily doston se baat karte hain.",1
+"Usne apni team ke sath meeting karti hai.",1
+"Hum agle hafte ek trip plan karenge.",2
+"Unhone kal ek project par kaam karenge.",2
+"Usne agli raat dinner host karegi.",2
+"Maine next week ek meeting attend karunga.",2
+"Hum kal bazaar jaayenge.",2
+"Unhone ek nayi car kharidenge.",2
+"Usne next month ek vacation plan karegi.",2
+"Maine kal subah ek exam doonga.",2
+"Hum agle Sunday ek party arrange karenge.",2
+"Unhone apna project finish karenge.",2
+"Usne agli class attend karegi.",2
+"Maine kal ek nayi book shuru karunga.",2
+"Hum apne dost ko weekend par milenge.",2
+"Unhone apna ghar renovate karenge.",2
+"Usne agli hafte ek presentation degi.",2
+"Maine agle mahine ek nayi job join karunga.",2
+"Hum apni team ke sath agle hafte meeting karenge.",2
+"Unhone agle hafte trip par jayenge.",2
+"Usne apna test agle din degi.",2
+"Maine kal apne dost ke sath movie dekhunga.",2
+"Hum apne ghar ko agle saal paint karenge.",2
+"Unhone ek naya laptop kharidenge.",2
+"Usne agli hafte ek course join karegi.",2
+"Maine next weekend apne parivar ke sath ghoomunga.",2
+"Hum kal ek nayi recipe try karenge.",2
+"Unhone kal apni family ke liye dinner banayenge.",2
+"Usne agle saal padhai complete karegi.",2
+"Maine agle mahine ek trip plan kiya hai.",2
+"Hum apni team ke sath project complete karenge.",2
+"Unhone apne doston ke sath agle weekend trip par jayenge.",2
+"Usne kal apna assignment submit karegi.",2
+"Maine kal apne dost ko gift dunga.",2
+"Hum agle hafte picnic manayenge.",2
+"Unhone kal apni mom ke liye cake banayenge.",2
+"Usne agli class mein quiz degi.",2
+"Maine kal apne project par kaam karunga.",2
+"Hum agle hafte ek match khelenge.",2
+"Unhone apni team ke sath agle mahine meeting rakhi hai.",2
+"Maine kal apne dost ko birthday wish kiya.",0
+"Usne kal ek nayi recipe try ki thi.",0
+"Unhone apna ghar kal safai ki thi.",0
+"Humne kal ek nayi film dekhi thi.",0
+"Maine pichle mahine ek bike kharidi thi.",0
+"Usne pichle saal ek novel likhi thi.",0
+"Humne pichle hafte ek trekking trip pe gaye the.",0
+"Unhone pichli shaam ek party attend ki thi.",0
+"Usne kal apna exam diya tha.",0
+"Maine kal apni diary likhi thi.",0
+"Humne ek week pehle picnic manayi thi.",0
+"Unhone pichle saal ek building design ki thi.",0
+"Maine pichle mahine ek software banaya tha.",0
+"Usne kal apna homework kiya tha.",0
+"Humne kal apne ghar ki painting complete ki thi.",0
+"Unhone kal raat dinner banaya tha.",0
+"Maine kal ek important meeting attend ki thi.",0
+"Usne apna phone kal repair karwaya tha.",0
+"Humne pichli raat ek match dekha tha.",0
+"Unhone kal ek nayi website launch ki thi.",0
+"Maine kal apni bike service karayi thi.",0
+"Usne apne pet ke sath poora din khela tha.",0
+"Humne kal subah ek long drive par gaye the.",0
+"Unhone kal shaam shopping ki thi.",0
+"Maine kal subah running ki thi.",0
+"Usne kal raat ek horror movie dekhi thi.",0
+"Humne apne dost ke ghar dinner kiya tha.",0
+"Unhone apna presentation kal complete kiya tha.",0
+"Usne kal ek coffee shop kholi thi.",0
+"Maine kal apne office ke kaam ki file banayi thi.",0
+"Humne kal ek naye restaurant me khana khaya tha.",0
+"Unhone kal ek furniture kharida tha.",0
+"Usne kal apni exam ki tayari ki thi.",0
+"Maine kal raat apna laptop fix kiya tha.",0
+"Humne kal ek movie ki tickets kharidi thi.",0
+"Unhone kal apni project ki deadline meet ki thi.",0
+"Usne kal ek nayi ghadi kharidi thi.",0
+"Maine apne doston ke sath dinner kiya tha.",0
+"Usne kal ek documentary dekhi thi.",0
+"Humne apne ghar ka decoration complete kiya tha.",0
+"Unhone kal ek nayi kitab likhi thi.",0
+"Maine roz subah yoga karta hoon.",1
+"Usne apna homework roz complete karti hai.",1
+"Unhone roz office ka kaam time par karte hain.",1
+"Hum roz subah newspaper padte hain.",1
+"Maine roz raat ko dinner banata hoon.",1
+"Usne har subah jogging karti hai.",1
+"Unhone apne dost ke sath roz ghoomte hain.",1
+"Hum roz gym jaate hain.",1
+"Maine har hafte ek nayi movie dekhta hoon.",1
+"Usne apne kamre ka roz safai karti hai.",1
+"Hum apni meetings ke notes banate hain.",1
+"Unhone apna project roz aage badhate hain.",1
+"Usne apni team ke sath roz kaam karti hai.",1
+"Maine apne ghar ka kaam roz karta hoon.",1
+"Hum roz raat ko TV show dekhte hain.",1
+"Unhone roz subah breakfast banate hain.",1
+"Usne apne dost ke sath roz baat karti hai.",1
+"Hum roz office ke liye tayari karte hain.",1
+"Maine roz subah 6 baje uthta hoon.",1
+"Usne apne dog ke sath roz walk karti hai.",1
+"Hum apne ghar ko roz saf karte hain.",1
+"Unhone roz online class attend ki hai.",1
+"Usne apna assignment roz submit karti hai.",1
+"Maine roz bike chalata hoon.",1
+"Hum roz sham ko park me walk karte hain.",1
+"Unhone apne bacchon ke sath roz khelte hain.",1
+"Usne apna roz kaam complete kiya hai.",1
+"Maine roz subah jogging karta hoon.",1
+"Hum roz apne dost ke ghar jaate hain.",1
+"Unhone apna roz kaam karte hain.",1
+"Usne apni diary roz likhti hai.",1
+"Maine kal ek nayi film dekhunga.",2
+"Usne agle hafte apna homework karegi.",2
+"Hum agle mahine ek trip par jayenge.",2
+"Unhone kal ek important meeting attend karenge.",2
+"Maine agle din apna exam doonga.",2
+"Usne agle mahine ek nayi job join karegi.",2
+"Hum kal bazaar jaane wale hain.",2
+"Unhone kal ek project par kaam shuru karenge.",2
+"Usne agle hafte ek cooking class join karegi.",2
+"Maine kal apna ghar paint karunga.",2
+"Hum agle Sunday ek picnic manayenge.",2
+"Unhone agle mahine ek nayi car kharidenge.",2
+"Usne kal apni bike service karwayegi.",2
+"Maine kal apne doston ke sath movie dekhunga.",2
+"Hum agle hafte ek tournament khelenge.",2
+"Unhone apni family ke liye kal dinner banayenge.",2
+"Usne agle hafte ek quiz me hissa legi.",2
+"Maine kal apne project par kaam karunga.",2
+"Hum kal apne doston se milenge.",2
+"Unhone agle hafte ek important presentation denge.",2
+"Usne kal ek nayi dress kharidegi.",2
+"Maine kal ek nayi book shuru karunga.",2
+"Hum agle mahine ek naya ghar kharidenge.",2
+"Unhone kal apne bacchon ke liye cake banayenge.",2
+"Usne agle hafte apna assignment submit karegi.",2
+"Maine agle mahine ek seminar attend karunga.",2
+"Hum agle mahine ek cultural event organize karenge.",2
+"Unhone agle din ek nayi project par kaam karenge.",2
+"Usne kal apne dost ko gift degi.",2
+"Maine kal apne office ka kaam khatam karunga.",2
+"Hum agle mahine apna business start karenge.",2
+"Unhone apni mom ke liye agle hafte surprise plan kiya hai.",2
+"Usne kal apne doston ke sath shopping karegi.",2
+"Maine kal ek nayi cycle kharidunga.",2
+"Hum agle hafte apna ghar decorate karenge.",2
+"Unhone kal apna project submit karenge.",2
+"Usne agle mahine apna graduation complete karegi.",2
+"Maine kal apne dost se milunga.",2
+"Hum agle mahine apne gaon jayenge.",2
+"Unhone agle hafte apni nayi car lekar aayenge.",2
+"Maine kal apne dost se baat ki thi.",0
+"Usne kal ek presentation diya tha.",0
+"Unhone kal apni cycle repair karayi thi.",0
+"Humne pichli raat ek hotel me dinner kiya tha.",0
+"Maine kal apne bhai ko gift diya tha.",0
+"Usne kal apna kaam khatam kiya tha.",0
+"Humne kal ek photo shoot kiya tha.",0
+"Unhone pichle hafte ek book publish ki thi.",0
+"Maine kal apni gaadi wash ki thi.",0
+"Usne kal ek naya game khela tha.",0
+"Humne pichle hafte ek nayi movie dekhi thi.",0
+"Unhone pichli shaam ek presentation tayar ki thi.",0
+"Maine kal ek test diya tha.",0
+"Usne kal apni mom ko call kiya tha.",0
+"Humne kal ek naya project shuru kiya tha.",0
+"Unhone kal apna project complete kar liya tha.",0
+"Usne kal raat apna homework complete kiya tha.",0
+"Maine kal ek email bheji thi.",0
+"Humne pichle mahine ek new car kharidi thi.",0
+"Unhone pichle saal apna ghar paint karwaya tha.",0
+"Usne kal ek business meeting attend ki thi.",0
+"Maine kal subah exercise ki thi.",0
+"Humne pichle weekend ek event attend kiya tha.",0
+"Unhone kal apne dost ke sath ghoomna gaya tha.",0
+"Usne kal ek naya laptop kharida tha.",0
+"Maine kal apne dost ko movie ka invite diya tha.",0
+"Humne kal doston ke sath party ki thi.",0
+"Unhone kal ek training session attend kiya tha.",0
+"Usne kal raat ek nayi recipe banayi thi.",0
+"Maine kal apna assignment submit kiya tha.",0
+"Humne pichle hafte football match khela tha.",0
+"Unhone kal apna ghar saaf kiya tha.",0
+"Usne kal ek email likhi thi.",0
+"Maine kal apni bike ride par gayi thi.",0
+"Humne kal ek new app launch kiya tha.",0
+"Unhone kal ek aur project finish kiya tha.",0
+"Usne kal apne papa se baat ki thi.",0
+"Maine kal apna school ka homework kiya tha.",0
+"Humne kal subah ek naya plan discuss kiya tha.",0
+"Unhone kal apna pura din office me bitaya tha.",0
+"Maine roz subah coffee peeta hoon.",1
+"Usne apne dost ko roz message karti hai.",1
+"Hum roz park me walk karte hain.",1
+"Unhone roz apne bacchon ke sath khelte hain.",1
+"Maine roz apna kaam time par karta hoon.",1
+"Usne roz subah yoga karti hai.",1
+"Hum roz raat ko movie dekhte hain.",1
+"Unhone apna roz kaam khatam kiya hai.",1
+"Maine roz subah ek glass pani peeta hoon.",1
+"Usne apne kamre ka roz safai karti hai.",1
+"Hum roz apne doston ke sath baat karte hain.",1
+"Unhone roz online classes attend ki hain.",1
+"Maine roz subah running karta hoon.",1
+"Usne roz apni diary likhti hai.",1
+"Hum roz apna ghar saaf karte hain.",1
+"Unhone roz apne parivar ke sath dinner karte hain.",1
+"Maine roz apne phone ka use karta hoon.",1
+"Usne roz apni mom ki help karti hai.",1
+"Hum roz apne doston ke sath lunch karte hain.",1
+"Unhone roz apni meetings attend ki hain.",1
+"Maine roz apne papa se baat karta hoon.",1
+"Usne roz apni presentation ke liye tayari ki hai.",1
+"Hum roz subah jaldi uthte hain.",1
+"Unhone roz apni bike chalayi hai.",1
+"Maine roz subah jaldi uthta hoon.",1
+"Usne roz apni files organize karti hai.",1
+"Hum roz apna ghar decorate karte hain.",1
+"Unhone roz apna homework finish kiya hai.",1
+"Usne roz apni mom ke sath khana banaya hai.",1
+"Maine roz doston ke sath ghoomta hoon.",1
+"Hum roz apne work ke liye tayari karte hain.",1
+"Unhone roz apne doston ko call kiya hai.",1
+"Usne roz subah ek cup chai pi hai.",1
+"Maine kal ek meeting attend karunga.",2
+"Usne agle hafte ek nayi job join karegi.",2
+"Hum agle mahine ek picnic plan karenge.",2
+"Unhone kal ek business deal sign karenge.",2
+"Maine kal ek nayi gaadi kharidunga.",2
+"Usne agle mahine ek dance class join karegi.",2
+"Hum agle Sunday ek football match khelenge.",2
+"Unhone agle hafte ek software launch karenge.",2
+"Maine kal subah ek new project start karunga.",2
+"Usne kal ek painting class join karegi.",2
+"Hum agle hafte apna ghar renovate karenge.",2
+"Unhone agle mahine ek function organize karenge.",2
+"Usne agle din apna exam degi.",2
+"Maine agle mahine ek interview attend karunga.",2
+"Hum agle hafte ek nayi movie dekhne jayenge.",2
+"Unhone kal ek website banayenge.",2
+"Usne agle mahine apni exam ki tayari karegi.",2
+"Maine agle hafte apne dost ko milunga.",2
+"Hum agle mahine ek trip par jayenge.",2
+"Unhone agle hafte ek webinar host karenge.",2
+"Usne agle hafte apna project complete karegi.",2
+"Maine kal ek book likhunga.",2
+"Hum agle hafte ek dinner party organize karenge.",2
+"Unhone kal apna ghar decorate karenge.",2
+"Usne kal ek presentation tayar karegi.",2
+"Maine agle mahine apni school ka exam doonga.",2
+"Hum agle hafte ek seminar attend karenge.",2
+"Unhone agle mahine apna office shift karenge.",2
+"Usne kal ek interview degi.",2
+"Maine kal ek nayi recipe try karunga.",2
+"Hum kal subah ek trekking trip par jayenge.",2
+"Unhone agle din ek presentation submit karenge.",2
+"Usne kal apne papa ke liye surprise plan karegi.",2
+"Maine agle hafte apni bike ki service karwaunga.",2
+"Hum agle mahine ek sports event attend karenge.",2
+"Unhone agle hafte apne dost ke sath ghoomne ka plan kiya hai.",2
+"Usne kal ek social media campaign launch karegi.",2
+"Maine kal raat apne dost ke ghar par dinner kiya tha.",0
+"Usne kal ek presentation finish ki thi.",0
+"Unhone kal subah apne office ka kaam complete kiya tha.",0
+"Humne kal raat ek nayi movie dekhi thi.",0
+"Maine kal apne phone ko charge kiya tha.",0
+"Usne kal apni book finish ki thi.",0
+"Unhone kal apne boss se meeting ki thi.",0
+"Humne kal ek project par kaam kiya tha.",0
+"Maine kal ek purana dosti yaad ki thi.",0
+"Usne kal apne parents ke sath dinner kiya tha.",0
+"Humne kal ek football match jeeta tha.",0
+"Unhone kal apna bike service karwaya tha.",0
+"Maine kal apne dost ko help kiya tha.",0
+"Usne kal apne bhai ke liye cake banaya tha.",0
+"Humne kal apni class ki assignment submit ki thi.",0
+"Unhone kal apne ghar ka renovation complete kiya tha.",0
+"Maine kal ek old movie dekhi thi.",0
+"Usne kal apne dost ko surprise diya tha.",0
+"Humne kal ek new software install kiya tha.",0
+"Unhone kal ek business meeting attend ki thi.",0
+"Maine kal subah jogging ki thi.",0
+"Usne kal apna result check kiya tha.",0
+"Humne kal ek picnic plan banaya tha.",0
+"Unhone kal apni family ke liye shopping ki thi.",0
+"Maine kal apne friend ke sath bike chalayi thi.",0
+"Usne kal apna homework finish kiya tha.",0
+"Humne kal raat ek horror movie dekhi thi.",0
+"Unhone kal ek new restaurant try kiya tha.",0
+"Usne kal apni dress silwayi thi.",0
+"Maine kal apne dog ke sath walk ki thi.",0
+"Usne kal apna phone repair karwaya tha.",0
+"Humne kal subah ek surprise plan kiya tha.",0
+"Unhone kal apne bachon ke liye gift liya tha.",0
+"Maine kal apne dost ko phone kiya tha.",0
+"Usne kal apni painting complete ki thi.",0
+"Humne kal ek nayi strategy discuss ki thi.",0
+"Unhone kal apna ghar shift kiya tha.",0
+"Usne kal apni team ke sath meeting ki thi.",0
+"Maine kal apne teacher se baat ki thi.",0
+"Humne kal apne doston ke sath ghoomna gaya tha.",0
+"Unhone kal ek sports event attend kiya tha.",0
+"Maine har din subah chai peeta hoon.",1
+"Usne har roz apni bike chalayi hai.",1
+"Hum roz apna kaam time pe karte hain.",1
+"Unhone roz apne bachon ko school le jate hain.",1
+"Maine har roz news padhta hoon.",1
+"Usne har din apni dost se baat ki hai.",1
+"Hum roz subah 6 baje uthte hain.",1
+"Unhone har roz apni meeting attend ki hai.",1
+"Maine har roz apni mom ki help ki hai.",1
+"Usne har din apna project kaam finish kiya hai.",1
+"Hum roz evening me park me walk karte hain.",1
+"Unhone har roz raat ko TV dekha hai.",1
+"Maine har din office ka kaam kiya hai.",1
+"Usne har roz apne doston ke sath lunch kiya hai.",1
+"Hum roz apna ghar saaf karte hain.",1
+"Unhone har din apni bike repair karayi hai.",1
+"Maine har din school ke liye tayari ki hai.",1
+"Usne har roz subah yoga kiya hai.",1
+"Hum roz ek cup chai ke sath baithte hain.",1
+"Unhone har din apna phone charge kiya hai.",1
+"Maine har roz exercise kiya hai.",1
+"Usne har din apne pets ko feed kiya hai.",1
+"Hum roz subah newspaper padte hain.",1
+"Unhone har roz apne school ka homework kiya hai.",1
+"Maine har din apni diary likhi hai.",1
+"Usne har roz apni bike wash ki hai.",1
+"Hum roz apne office ke kaam ko time pe finish karte hain.",1
+"Unhone roz apni files organize ki hain.",1
+"Maine har roz ek new recipe try ki hai.",1
+"Usne roz apne bhai ko help kiya hai.",1
+"Maine kal ek naya business start karunga.",2
+"Usne agle hafte ek nayi gaadi kharidegi.",2
+"Hum agle hafte ek family trip plan karenge.",2
+"Unhone agle mahine ek important meeting attend karenge.",2
+"Maine kal ek new project launch karunga.",2
+"Usne agle din apna homework complete karegi.",2
+"Hum agle mahine ek big event host karenge.",2
+"Unhone agle hafte ek charity event organize karenge.",2
+"Maine kal ek new phone buy karunga.",2
+"Usne agle hafte apne doston ke sath party karegi.",2
+"Hum agle hafte ek nayi movie dekhne jayenge.",2
+"Unhone agle din ek training session attend karenge.",2
+"Maine kal ek exam dene jaunga.",2
+"Usne agle hafte ek new course join karegi.",2
+"Hum agle mahine apna ghar shift karenge.",2
+"Unhone kal apne boss se meeting karenge.",2
+"Usne kal apni mom ko gift degi.",2
+"Maine agle hafte apna presentation submit karunga.",2
+"Hum agle mahine apna new business start karenge.",2
+"Unhone kal ek bike ride par jayenge.",2
+"Usne agle mahine ek new project start karegi.",2
+"Maine kal apni job ke liye apply karunga.",2
+"Hum agle hafte ek surprise party organize karenge.",2
+"Unhone agle mahine ek foreign trip par jayenge.",2
+"Usne kal apne dost ke liye gift kharidega.",2
+"Maine agle din apna bike repair karwaunga.",2
+"Hum agle hafte ek office meeting attend karenge.",2
+"Unhone agle mahine ek book publish karenge.",2
+"Usne agle din apni exam ki tayari karegi.",2
+"Maine kal ek long drive par jaunga.",2
